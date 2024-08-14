@@ -570,7 +570,7 @@ body{
         .nav{
             width: 100%;
             & ul{
-                background-color:yellow;
+                background-color:#ffffff;
                 display: block;
                 justify-content: center;
                 z-index: 1;
